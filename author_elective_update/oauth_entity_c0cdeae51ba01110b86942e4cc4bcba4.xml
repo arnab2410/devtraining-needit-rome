@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="oauth_entity">
+    <oauth_entity action="DELETE">
+        <access>public</access>
+        <access_token_lifespan>1800</access_token_lifespan>
+        <active>true</active>
+        <auth_code_lifespan>60</auth_code_lifespan>
+        <auth_url/>
+        <certificate_url/>
+        <client_id>40cdeae5b0a01110ef9f707298e728a4</client_id>
+        <client_secret>﷞﷟﷒7d7f0a091b5b0110b86942e4cc4bcb1c﷬﷔1﷬﷭jeyKxdf206s1UaMc37KTEQ==emX6hEBdh9_NxRbTzduSnIvZZrRDwe5N8AA=﷮﷯</client_secret>
+        <client_uuid>00cdeae51ba01110b86942e4cc4bcba4</client_uuid>
+        <code_challenge_method>S256</code_challenge_method>
+        <comments/>
+        <default_grant_type>password</default_grant_type>
+        <id_token_lifespan>86400</id_token_lifespan>
+        <logo_url/>
+        <message_signature_lifespan>60</message_signature_lifespan>
+        <name>NeedIt APIToken</name>
+        <oauth_api_script/>
+        <protocol_name/>
+        <public_client>false</public_client>
+        <redirect_url/>
+        <refresh_token_lifespan>8640000</refresh_token_lifespan>
+        <refresh_token_url/>
+        <restricted_binding>false</restricted_binding>
+        <revoke_token_url/>
+        <salt/>
+        <send_client_credentials_as>request_body_parameter</send_client_credentials_as>
+        <skip_authorize>false</skip_authorize>
+        <sys_class_name>oauth_entity</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-07-07 16:56:58</sys_created_on>
+        <sys_id>c0cdeae51ba01110b86942e4cc4bcba4</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>NeedIt APIToken</sys_name>
+        <sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope>
+        <sys_update_name>oauth_entity_c0cdeae51ba01110b86942e4cc4bcba4</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-07-07 16:56:58</sys_updated_on>
+        <token_url/>
+        <type>client</type>
+        <use_mutual_auth>false</use_mutual_auth>
+        <user/>
+    </oauth_entity>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</application>
+        <file_path/>
+        <instance_id>8429b23c1b13e450e84d2f8dee4bcb30</instance_id>
+        <instance_name>dev109543</instance_name>
+        <name>oauth_entity_c0cdeae51ba01110b86942e4cc4bcba4</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="oauth_entity"><oauth_entity action="INSERT_OR_UPDATE"><access>public</access><access_token_lifespan>1800</access_token_lifespan><active>true</active><auth_code_lifespan>60</auth_code_lifespan><auth_url/><certificate_url/><client_id>40cdeae5b0a01110ef9f707298e728a4</client_id><client_secret>﷞﷟﷒7d7f0a091b5b0110b86942e4cc4bcb1c﷬﷔1﷬﷭jeyKxdf206s1UaMc37KTEQ==emX6hEBdh9_NxRbTzduSnIvZZrRDwe5N8AA=﷮﷯</client_secret><client_uuid>00cdeae51ba01110b86942e4cc4bcba4</client_uuid><code_challenge_method>S256</code_challenge_method><comments/><default_grant_type>password</default_grant_type><id_token_lifespan>86400</id_token_lifespan><logo_url/><message_signature_lifespan>60</message_signature_lifespan><name>NeedIt APIToken</name><oauth_api_script/><protocol_name/><public_client>false</public_client><redirect_url/><refresh_token_lifespan>8640000</refresh_token_lifespan><refresh_token_url/><restricted_binding>false</restricted_binding><revoke_token_url/><salt/><send_client_credentials_as>request_body_parameter</send_client_credentials_as><skip_authorize>false</skip_authorize><sys_class_name>oauth_entity</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2022-07-07 16:56:58</sys_created_on><sys_id>c0cdeae51ba01110b86942e4cc4bcba4</sys_id><sys_mod_count>0</sys_mod_count><sys_name>NeedIt APIToken</sys_name><sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package><sys_policy/><sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope><sys_update_name>oauth_entity_c0cdeae51ba01110b86942e4cc4bcba4</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2022-07-07 16:56:58</sys_updated_on><token_url/><type>client</type><use_mutual_auth>false</use_mutual_auth><user/></oauth_entity></record_update>]]></payload>
+        <payload_hash>1926295907</payload_hash>
+        <record_name>NeedIt APIToken</record_name>
+        <reverted_from/>
+        <source>e71c0a7c1b510110b86942e4cc4bcb07</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-07-07 16:56:58</sys_created_on>
+        <sys_id>bf0eea651ba01110b86942e4cc4bcb1d</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>181d997e2690000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-07-07 16:56:58</sys_updated_on>
+        <type>Application Registries</type>
+        <update_guid>b70eea653aa0111080e4e45e51f4be1d</update_guid>
+        <update_guid_history>b70eea653aa0111080e4e45e51f4be1d:1926295907</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="NeedIt APIToken">33be2a691ba01110b86942e4cc4bcbd3</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-07-07 16:59:59</sys_created_on>
+        <sys_db_object display_value="" name="oauth_entity">oauth_entity</sys_db_object>
+        <sys_id>2bdde804ee7e4b18a67465d490d8c110</sys_id>
+        <sys_metadata>c0cdeae51ba01110b86942e4cc4bcba4</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>NeedIt APIToken</sys_name>
+        <sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope>
+        <sys_scope_delete display_value="">94872a8897db403e8ee69a431de2fca4</sys_scope_delete>
+        <sys_update_name>oauth_entity_c0cdeae51ba01110b86942e4cc4bcba4</sys_update_name>
+        <sys_update_version display_value="oauth_entity_c0cdeae51ba01110b86942e4cc4bcba4">bf0eea651ba01110b86942e4cc4bcb1d</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-07-07 16:59:59</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>
